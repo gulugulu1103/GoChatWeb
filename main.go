@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/websocket"
-	uuid "github.com/satori/go.uuid"
+	"github.com/satori/go.uuid"
 	"net/http"
 )
 
